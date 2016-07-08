@@ -26,11 +26,5 @@
 		<artifactId>poi</artifactId>
 		<version>3.9</version>
 	</dependency>
-	<dependency>
-		<groupId>com.atguigu.pk</groupId>
-		<artifactId>haha</artifactId>
-		<version>hehe</version>
-	</dependency>
-	<dependency></dependency>
   </dependencies>
 </project>
