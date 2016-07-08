@@ -9,5 +9,6 @@ public class TestGitHub {
 		System.out.println("test by eclipse");
 		//from github
 		System.out.println("test conflict");
+		System.out.println("test conflict by God");
 	}
 }
