@@ -31,5 +31,6 @@
 		<artifactId>haha</artifactId>
 		<version>hehe</version>
 	</dependency>
+	<dependency></dependency>
   </dependencies>
 </project>
